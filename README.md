@@ -4,7 +4,7 @@
 
 	I-) Front-end project name is 'todolist-ui'. 'todolist-ui' is a React project.
 
-	II-) If not installed nodeJs in computer firstly download and setup nodeJs.
+	II-) If not installed nodeJs in computer before, firstly download and setup nodeJs.
 
 	III-) Open terminal in containing folder and write 'npm install' to the terminal
 	
@@ -14,8 +14,12 @@
 
 3-) Back-end project install and run steps:
 
-	I-) Go to this link https://github.com/burakyagdiran/toDoListApplication/releases
+	I-) If not installed pgadmin4 in computer before, firstly download and setup pgadmin4.
+	
+	II-) Go to 127.0.0.1:* pgAdmin link and create new user. (username = admin, password = admin) 
 
-	II_) Download 'toDoListApp-0.0.1-SNAPSHOT.jar'
+	III-) Go to this link https://github.com/burakyagdiran/toDoListApplication/releases
 
-	III-) open terminal in containing folder and run 'java -jar toDoListApp-0.0.1-SNAPSHOT.jar' command.
+	IV_) Download 'toDoListApp-0.0.1-SNAPSHOT.jar'
+
+	V-) open terminal in containing folder and run 'java -jar toDoListApp-0.0.1-SNAPSHOT.jar' command.
