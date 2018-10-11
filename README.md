@@ -2,9 +2,10 @@
 
 2-) Back-end project install and run steps:
 
-	I-) If not installed pgadmin4 in computer before, firstly download and setup pgadmin4.
+	I-) Project works on default postgres schema. Create new database with name is 'todolistapp'.
 	
-	II-) Go to 127.0.0.1:* pgAdmin link and create new user. (username = admin, password = admin) 
+	II-) Postgres properties :
+	
 
 	III-) Go to this link https://github.com/burakyagdiran/toDoListApplication/releases
 
