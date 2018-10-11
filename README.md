@@ -2,7 +2,7 @@
 
 2-) Back-end project install and run steps:
 
-	I-) Project works on default postgres schema. Create new database with name is 'todolistapp'.
+	I-) Project works on default postgres. Create new database with name is 'todolistapp'.
 	
 	II-) Data source properties :
 	spring.datasource.url=jdbc:postgresql://127.0.0.0:5432/todolistapp
@@ -14,17 +14,17 @@
 
 	IV_) Download 'toDoListApp-0.0.1-SNAPSHOT.jar'
 
-	V-) open terminal in containing folder and run 'java -jar toDoListApp-0.0.1-SNAPSHOT.jar' command.
+	V-) Open terminal window and navigate project folder, run 'java -jar toDoListApp-0.0.1-SNAPSHOT.jar' command.
 	
 3-) Front-end project install and run steps:
 
 	I-) Front-end project 'todolist-ui' developed with React.
 
-	II-) Install nodeJs and setup.
+	II-) Install nodeJs.
 
-	III-) Open terminal in containing folder and write 'npm install' to the terminal
+	III-) Open terminal window and  navigate project folder, run 'npm install' command.
 	
-	IV-) Write 'npm start' to the terminal.
+	IV-) Run 'npm start' command to the terminal.
 	
 	V-) Lastly open web browser and go 'localhost:3000'
 
