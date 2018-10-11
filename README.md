@@ -4,7 +4,7 @@
 
 	I-) Project works on default postgres schema. Create new database with name is 'todolistapp'.
 	
-	II-) Postgres properties :
+	II-) Data source properties :
 	spring.datasource.url=jdbc:postgresql://127.0.0.0:5432/todolistapp
 	spring.datasource.username=admin
 	spring.datasource.password=admin
