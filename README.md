@@ -5,9 +5,11 @@
 	I-) Project works on default postgres schema. Create new database with name is 'todolistapp'.
 	
 	II-) Postgres properties :
+	spring.datasource.url=jdbc:postgresql://127.0.0.0:5432/todolistapp
+	spring.datasource.username=admin
+	spring.datasource.password=admin
+	spring.datasource.driver-class-name=org.postgresql.Driver
 	
-	![screen shot 2018-10-11 at 09 07 33](https://user-images.githubusercontent.com/31351175/46784581-6408e500-cd37-11e8-8b35-6e7529c48e73.png)
-
 	III-) Go to this link https://github.com/burakyagdiran/toDoListApplication/releases
 
 	IV_) Download 'toDoListApp-0.0.1-SNAPSHOT.jar'
